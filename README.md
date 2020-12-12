@@ -1,6 +1,4 @@
-### Программист
-C++ C# Java
-
+Работаю над https://github.com/demidko/vkm
 <!--
 **demidko/demidko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
