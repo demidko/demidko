@@ -1,8 +1,8 @@
 ```kotlin
 fun create(app: Idea) = when (app) {
-  is Utility -> use("")
-  is DesktopUI -> use("")
-  is Microservice -> use("")
-  is AndroidApplication -> use("")
+  is Service -> use(" https://github.com/demidko/service ")
+  is Utility -> use(" https://github.com/demidko/utility ")
+  is Android -> use(" https://github.com/demidko/android ")
+  is Desktop -> use(" https://github.com/demidko/desktop ")
 }
 ```
