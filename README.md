@@ -1,6 +1,6 @@
 ```kotlin
 fun create(app: Idea){
-  use("https://github.com/login")
+  use("github.com/login")
   when (app) {
     is Service -> use("github.com/demidko/service")
     is Utility -> use("github.com/demidko/utility")
