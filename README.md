@@ -1,3 +1,4 @@
+### [`Login to use project wizard buttons`](https://github.com/login)
 ```kotlin
 fun create(app: Idea) {
   when (app) {
@@ -8,7 +9,7 @@ fun create(app: Idea) {
   }
 }
 ```
-[![](https://img.shields.io/badge/microservice-EA7100?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service) 
-[![](https://img.shields.io/badge/utility-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/utility) 
-[![](https://img.shields.io/badge/android-darkgreen?style=for-the-badge&logo=android)](https://github.com/demidko/android) 
-[![](https://img.shields.io/badge/desktop-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop)
+[![](https://img.shields.io/badge/microservice-EA7100?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate) 
+[![](https://img.shields.io/badge/utility-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/utility/generate) 
+[![](https://img.shields.io/badge/android-darkgreen?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate) 
+[![](https://img.shields.io/badge/desktop-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)
