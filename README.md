@@ -1,4 +1,3 @@
-### [`Login`](https://github.com/login) to use the magic buttons of the project wizard
 ```kotlin
 fun create(app: Idea) {
   when (app) {
@@ -9,6 +8,7 @@ fun create(app: Idea) {
   }
 }
 ```
+### [`Login`](https://github.com/login) to use the magic buttons of the project wizard
 [![](https://img.shields.io/badge/microservice-EA7100?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate) 
 [![](https://img.shields.io/badge/utility-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/utility/generate) 
 [![](https://img.shields.io/badge/android-darkgreen?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate) 
