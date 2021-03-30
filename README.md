@@ -1,6 +1,6 @@
+## [Login](https://github.com/login) to use my project wizard
 ```kotlin
 fun create(app: Idea){
-  use("github.com/login")
   when (app) {
     is Service -> use("github.com/demidko/service/generate")
     is Utility -> use("github.com/demidko/utility/generate")
