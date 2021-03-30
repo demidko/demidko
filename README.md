@@ -1,4 +1,4 @@
-<details><summary> _Тест_ </summary>
+<details><summary>Тест</summary>
   
   ‎  
 Работает
