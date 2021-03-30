@@ -7,6 +7,6 @@ fun create(app: Idea) = when (app) {
 }
 ```
 [![](https://img.shields.io/badge/microservice-orange?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate) 
-[![](https://img.shields.io/badge/c++23-utility-lightgray?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate) 
+[![](https://img.shields.io/badge/c++23-utility?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate) 
 [![](https://img.shields.io/badge/kotlin-android%20app-green?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate) 
 [![](https://img.shields.io/badge/kotlin-desktop%20app-blue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)
