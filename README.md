@@ -1,5 +1,5 @@
-<details><summary>Тест</summary>
+<details><summary>Test</summary>
   
   ‎  
-Работает
+text
 </details>
