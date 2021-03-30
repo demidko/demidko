@@ -1,5 +1,4 @@
 ### [`Login`](https://github.com/login) to use the magic buttons of the project wizard
-<span style="color:blue">some *blue* text</span>.
 ```kotlin
 fun create(app: Idea) {
   when (app) {
