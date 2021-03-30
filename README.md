@@ -1,15 +1,11 @@
-### [`Login to use project wizard`](https://github.com/login)
+### [`Login to use this project wizard`](https://github.com/login)
 ```kotlin
 fun create(app: Idea){
   when (app) {
-    is Service -> 
-      use("github.com/demidko/service/generate")
-    is Utility -> 
-      use("github.com/demidko/utility/generate")
-    is Android -> 
-      use("github.com/demidko/android/generate")
-    is Desktop -> 
-      use("github.com/demidko/desktop/generate")
+    is Service -> use("github.com/demidko/service/generate")
+    is Utility -> use("github.com/demidko/utility/generate")
+    is Android -> use("github.com/demidko/android/generate")
+    is Desktop -> use("github.com/demidko/desktop/generate")
   }
 }
 ```
