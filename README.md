@@ -1,4 +1,4 @@
-#### [`Login to use project wizard magic buttons`](https://github.com/login)
+### [`Login to use project wizard magic buttons`](https://github.com/login)
 ```kotlin
 fun create(app: Idea) {
   when (app) {
