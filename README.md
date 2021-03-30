@@ -6,4 +6,4 @@ fun create(app: Idea) = when (app) {
   is Desktop -> use("github.com/demidko/desktop")
 }
 ```
-[![service](https://img.shields.io/badge/kotlin-service-orange)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+[![](https://img.shields.io/badge/kotlin-service-orange)](github.com/demidko/service/generate)
