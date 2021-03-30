@@ -6,7 +6,7 @@ fun create(app: Idea) = when (app) {
   is Desktop -> use("github.com/demidko/desktop")
 }
 ```
-[![](https://img.shields.io/badge/kotlin-microservice-orange?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate)
-[![](https://img.shields.io/badge/c++23-utility-blue?style=for-the-badge)](https://github.com/demidko/utility/generate)
-[![](https://img.shields.io/badge/kotlin-android%20app-green?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate)
-[![](https://img.shields.io/badge/kotlin-desktop%20app-orange?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)
+[![](https://img.shields.io/badge/kotlin-microservice-orange?logo=kotlin)](https://github.com/demidko/service/generate)
+[![](https://img.shields.io/badge/c++23-utility-blue)](https://github.com/demidko/utility/generate)
+[![](https://img.shields.io/badge/kotlin-android%20app-green?logo=android)](https://github.com/demidko/android/generate)
+[![](https://img.shields.io/badge/kotlin-desktop%20app-orange?logo=kotlin)](https://github.com/demidko/desktop/generate)
