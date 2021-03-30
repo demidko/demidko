@@ -1,4 +1,4 @@
-<details><summary>[`Тест`]</summary>
+<details><summary> _Тест_ </summary>
   
   ‎  
 Работает
