@@ -2,10 +2,10 @@
 fun create(app: Idea){
   use("github.com/login")
   when (app) {
-    is Service -> use("github.com/demidko/service")
-    is Utility -> use("github.com/demidko/utility")
-    is Android -> use("github.com/demidko/android")
-    is Desktop -> use("github.com/demidko/desktop")
+    is Service -> use("github.com/demidko/service/generate")
+    is Utility -> use("github.com/demidko/utility/generate")
+    is Android -> use("github.com/demidko/android/generate")
+    is Desktop -> use("github.com/demidko/desktop/generate")
   }
 }
 ```
