@@ -1,4 +1,4 @@
-### [`Login to use this project wizard`](https://github.com/demidko/demidko/starred)
+### [`Login to use this project wizard`](https://github.com/login)
 ```kotlin
 fun create(app: Idea){
   when (app) {
