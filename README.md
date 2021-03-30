@@ -1,4 +1,4 @@
-## [Login](https://github.com/login) to use my project wizard
+### [Login](https://github.com/login) to use my project wizard
 ```kotlin
 fun create(app: Idea){
   when (app) {
