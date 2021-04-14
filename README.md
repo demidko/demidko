@@ -5,7 +5,6 @@ fun create(app: Idea) =
     is Utility -> use("github.com/demidko/utility")
     is Android -> use("github.com/demidko/android")
     is Desktop -> use("github.com/demidko/desktop")
-    
     is Telegram -> use("github.com/demidko/telegram")
   }
 
@@ -15,4 +14,4 @@ fun create(app: Idea) =
 [![](https://img.shields.io/badge/utility-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/utility/generate) 
 [![](https://img.shields.io/badge/android-darkgreen?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate) 
 [![](https://img.shields.io/badge/desktop-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)
-[![](https://img.shields.io/badge/telegram-white?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate) 
+[![](https://img.shields.io/badge/telegram-whitesmoke?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate) 
