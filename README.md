@@ -14,4 +14,4 @@ fun create(app: Idea) =
 [![](https://img.shields.io/badge/utility-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/utility/generate) 
 [![](https://img.shields.io/badge/android-darkgreen?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate) 
 [![](https://img.shields.io/badge/desktop-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)
-[![](https://img.shields.io/badge/telegram-lightblue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate) 
+[![](https://img.shields.io/badge/telegram-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate) 
