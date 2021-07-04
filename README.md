@@ -6,7 +6,7 @@ fun create(app: Idea) =
     is Android -> use("github.com/demidko/android")
     is Desktop -> use("github.com/demidko/desktop")
     is Library -> use("github.com/demidko/library")
-    is Telegram -> use("github.com/demidko/telegram")
+    is Bot     -> use("github.com/demidko/telegram")
   }
 
 ```
