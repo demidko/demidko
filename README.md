@@ -2,7 +2,7 @@
 fun create(app: Idea) =
   when (app) {
     is Service -> use("github.com/demidko/service")
-    is Utility -> use("github.com/demidko/utility")
+    is Utility -> use("github.com/demidko/conan-utility")
     is Android -> use("github.com/demidko/android")
     is Desktop -> use("github.com/demidko/desktop")
     is Library -> use("github.com/demidko/library")
