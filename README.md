@@ -1,6 +1,6 @@
 # Project Wizard
-You can use the project wizard to quickly deploy applications.  
-[`Login`](https://github.com/login) to use the new projects wizard buttons: 
+You can use the modern project wizard to quickly deploy applications.  
+[`Login`](https://github.com/login) to use the projects wizard buttons: 
 
 [![](https://img.shields.io/badge/Utility%20(C++,%20Conan,%20cmake)-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/conan-utility/generate)  
 [![](https://img.shields.io/badge/Utility%20(C++,%20vcpkg,%20cmake)-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/vcpkg-utility/generate)  
