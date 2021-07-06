@@ -1,17 +1,6 @@
-```kotlin
-fun create(app: Idea) =
-  when (app) {
-    is Service -> use("github.com/demidko/service")
-    is Utility -> use("github.com/demidko/utility") 
-                  or("github.com/demidko/vcpkg-utility")
-    is Android -> use("github.com/demidko/android")
-    is Desktop -> use("github.com/demidko/desktop")
-    is Library -> use("github.com/demidko/library")
-    is Bot     -> use("github.com/demidko/telegram")
-  }
-
-```
-### [`Login`](https://github.com/login) to use the new projects wizard buttons 
+# Project Wizard
+You can use the project wizard to quickly deploy microservices, utilities, applications. 
+[`Login`](https://github.com/login) to use the new projects wizard buttons: 
 [![](https://img.shields.io/badge/service-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/service/generate) 
 [![](https://img.shields.io/badge/utility(conan)-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/conan-utility/generate) 
 [![](https://img.shields.io/badge/utility(vcpkg)-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/vcpkg-utility/generate)  
