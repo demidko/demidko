@@ -10,4 +10,4 @@ You can use the modern project wizard to quickly deploy applications.
 [![](https://img.shields.io/badge/android%20application%20(Kotlin,%20Gradle)-darkgreen?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate)  
 [![](https://img.shields.io/badge/desktop%20application%20(Kotlin,%20Gradle,%20Jetpack)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)  
 
-<sub><sup>_© 2021 S.D.G_</sup></sub>
+<sub><sup>© 2021 _S.D.G_</sup></sub>
