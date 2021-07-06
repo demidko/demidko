@@ -1,5 +1,6 @@
 # Project Wizard
-You can use the project wizard to quickly deploy applications. [`Login`](https://github.com/login) to use the new projects wizard buttons: 
+You can use the project wizard to quickly deploy applications.  
+[`Login`](https://github.com/login) to use the new projects wizard buttons: 
 
 [![](https://img.shields.io/badge/Microservice%20(Kotlin,%20Gradle,%20Java)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/service/generate)  
 [![](https://img.shields.io/badge/Native%20utility%20(C++,%20Conan,%20cmake)-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/conan-utility/generate)  
