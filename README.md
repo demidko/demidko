@@ -3,8 +3,8 @@ You can use this modern project wizard to quickly create your application.
 [`Login`](https://github.com/login) to use the following projects wizard buttons ⤵
 
 [![](https://img.shields.io/badge/Utility%20(C++,%20Conan,%20cmake)-003E54?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/conan-utility/generate)  
-[![](https://img.shields.io/badge/Utility%20(C++,%20Vcpkg,%20cmake)-003E54?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/vcpkg-utility/generate)
-[![](https://img.shields.io/badge/Library%20(CMake,%20Conan,%20C++,%20C)-003E54?style=for-the-badge&logo=c)](https://github.com/demidko/native-library/generate)
+[![](https://img.shields.io/badge/Utility%20(C++,%20Vcpkg,%20cmake)-003E54?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/vcpkg-utility/generate)  
+[![](https://img.shields.io/badge/Library%20(CMake,%20Conan,%20C++,%20C)-003E54?style=for-the-badge&logo=c)](https://github.com/demidko/native-library/generate)  
 [![](https://img.shields.io/badge/Microservice%20(Kotlin,%20Gradle,%20Java)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/service/generate)   
 [![](https://img.shields.io/badge/Telegram%20Bot%20(Kotlin,%20Gradle,%20Java)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
 [![](https://img.shields.io/badge/Library%20(Kotlin,%20Java,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)  
