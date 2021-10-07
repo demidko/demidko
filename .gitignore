@@ -1,11 +1,1 @@
-.idea
-android
-desktop
-library
-native-library
-service
-telegram
-utility
-vcpkg-utility
-web
-.DS_Store
+*
