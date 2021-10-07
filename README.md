@@ -5,7 +5,7 @@ You can use this modern project wizard to quickly create your application.
 [![](https://img.shields.io/badge/utility%20(C++,%20conan,%20cmake)-003E54?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/conan-utility/generate)  
 [![](https://img.shields.io/badge/utility%20(C++,%20Vcpkg,%20cmake)-003E54?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/vcpkg-utility/generate)  
 [![](https://img.shields.io/badge/library%20(C++,%20CMake,%20Conan)-003E54?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/native-library/generate)  
-[![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate  
+[![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Gradle,%20Ktor)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/service/generate)   
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Gradle,%20Java,%20Maven,%20Spring%20Boot)-EA7100?style=for-the-badge&logo=java)](https://start.spring.io/)  
 
