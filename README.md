@@ -1,7 +1,7 @@
 # Project Wizard
 
 Use this project wizard to quickly create applications.  
-[`Login`](https://github.com/login) to use the following projects wizard buttons ⤵️
+[**`Login`**](https://github.com/login) to use the following projects wizard buttons ⤵️
 
 [![](https://img.shields.io/badge/utility%20(C++,%20VCPKG,%20CMake)-003E54?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/vcpkg-utility/generate)  
 [![](https://img.shields.io/badge/utility%20(C++,%20Conan,%20CMake)-003E54?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/conan-utility/generate)  
