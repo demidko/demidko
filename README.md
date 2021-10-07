@@ -10,6 +10,6 @@ Use this project wizard to quickly create applications.
 [![](https://img.shields.io/badge/library%20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)  
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Ktor,%20Gradle)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/service/generate)  
 [![](https://img.shields.io/badge/web%20application%20(Kotlin,%20KWeb,%20Gradle)-darkblue?style=for-the-badge&logo=kotlin&)](https://github.com/demidko/desktop/generate)  
-[![](https://img.shields.io/badge/desktop%20application%20(Kotlin,%20Jetpack,%20Gradle)-darkviolet?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)  
+[![](https://img.shields.io/badge/desktop%20application%20(Kotlin,%20Jetpack,%20Gradle)-blueviolet?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)  
 [![](https://img.shields.io/badge/android%20application%20(Kotlin,%20Jetpack,%20Gradle)-darkgreen?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate)  
 <sub><sup>_S.D.G 2021_</sup></sub>
