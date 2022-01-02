@@ -1,8 +1,7 @@
 # Project Wizard
 
 Use this project wizard to quickly create applications.  
-[**`Login`**](https://github.com/login) to use the following projects wizard buttons ⤵
-
+[**`Login`**](https://github.com/login) to use the following projects wizard buttons ⤵  
 [![](https://img.shields.io/badge/utility%20(Kotlin,%20GraalVM)-orange?style=for-the-badge&logo=java&logoColor=black)](https://github.com/demidko/utility/generate)
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Ktor,%20Gradle)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/service/generate)
 [![](https://img.shields.io/badge/library%20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)
