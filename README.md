@@ -3,7 +3,7 @@
 Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following projects wizard buttons ⤵
 
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Ktor,%20Gradle)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate)  
-_Microservice template. You can easily turn it into a web application and also use Java if needed._  
+_Kotlin microservice template. You can easily turn it into a web application and also use Java if needed._  
 
 [![](https://img.shields.io/badge/utility%20(Kotlin,%20Gradle,%20GraalVM)-darkgreen?style=for-the-badge&logo=gradle)](https://github.com/demidko/utility/generate)  
 _Native command-line tool template. You can use Kotlin/Java and also include GUI (Tornado, JavaFX, Swing)._  
