@@ -3,13 +3,13 @@
 Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following templates ⤵
 
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Ktor,%20Gradle)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate)  
-_Kotlin/Java microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. I recommend starting a new application projects with this template. The project has a Dockerfile configured to quickly deploy to any host._  
+_Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. I recommend starting a new application projects with this template. The project has a Dockerfile configured to quickly deploy to any host._  
 
 [![](https://img.shields.io/badge/utility%20(Kotlin,%20Gradle,%20GraalVM)-darkgreen?style=for-the-badge&logo=gradle)](https://github.com/demidko/utility/generate)  
-_Crossplatform native utility template. You can use Kotlin/Java and also include Desktop GUI (Tornado, JavaFX, Swing). You will receive binaries for macOS, Windows, Linux after each commit in the Actions tab._  
+_Crossplatform native utility template. You can use Java/Kotlin and also include Desktop GUI (Tornado, JavaFX, Swing). You will receive binaries for macOS, Windows, Linux after each commit in the Actions tab._  
 
 [![](https://img.shields.io/badge/library%20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)  
-_Kotlin/Java library template. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system._ 
+_Java/Kotlin library template. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system._ 
 
 [![](https://img.shields.io/badge/utility%20(C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/native-utility/generate)  
 _Heavy artillery. Use this template to create native C/C++ utilities. This project is easy to convert to a native library._
