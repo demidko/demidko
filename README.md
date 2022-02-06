@@ -41,6 +41,6 @@ _Heavy artillery. Use this template to create native C/C++ utilities. This proje
   _Deprecated. I recommend using xmake._ 
 </details>
 
-_Note. At the moment, it makes no sense to start development with a native mobile/desktop application. Microservices and crossplatform PWA won._
+_Note. At the moment, it makes no sense to start development with a mobile/desktop application. Microservices and crossplatform PWA won._
 
 <sub><sup>_S.D.G 2021_</sup></sub>
