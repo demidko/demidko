@@ -26,7 +26,7 @@ _Heavy artillery. Use this template to create native C/C++ utilities. This proje
   _A complete web application using Kotlin for both the backend and frontend._
   
   [![](https://img.shields.io/badge/android%20application%20(Kotlin,%20Jetpack,%20Gradle)-3DDC84?style=for-the-badge&logo=android&logoColor=whitesmoke)](https://github.com/demidko/android/generate)  
-  _Deptecated. The Android ecosystem has become very complex lately and I recommend choosing a default PWA for development._
+  _Deprecated. The Android ecosystem has become very complex lately and I recommend choosing a default PWA for development._
   
   [![](https://img.shields.io/badge/desktop%20application%20(Kotlin,%20Jetpack,%20Gradle)-brown?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)  
   _Deprecated. See actual templates in the [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) repository_
