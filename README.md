@@ -10,6 +10,7 @@ Use this project wizard to quickly create applications.
 <details>
   <summary>More..</summary>
   
+  
   [![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
   [![](https://img.shields.io/badge/web%20application%20(Kotlin,%20KWeb,%20Gradle)-darkviolet?style=for-the-badge&logo=kotlin&logoColor=violet)](https://github.com/demidko/web/generate)  
   [![](https://img.shields.io/badge/android%20application%20(Kotlin,%20Jetpack,%20Gradle)-darkgreen?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate)  
