@@ -3,7 +3,7 @@
 Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following projects wizard buttons ⤵
 
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Ktor,%20Gradle)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate)  
-_Kotlin/Java microservice template. You can easily turn it into a PWA with JS/HTML. I recommend starting a new application projects with this template. The project has a Dockerfile configured to quickly deploy to any host._  
+_Kotlin/Java microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. I recommend starting a new application projects with this template. The project has a Dockerfile configured to quickly deploy to any host._  
 
 [![](https://img.shields.io/badge/utility%20(Kotlin,%20Gradle,%20GraalVM)-darkgreen?style=for-the-badge&logo=gradle)](https://github.com/demidko/utility/generate)  
 _Crossplatform native utility template. You can use Kotlin/Java and also include Desktop GUI (Tornado, JavaFX, Swing). You will receive binaries for macOS, Windows, Linux after each commit in the Actions tab._  
