@@ -16,7 +16,7 @@ _Note. At the moment, it makes no sense to start development with a native appli
   
   [![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
   [![](https://img.shields.io/badge/web%20application%20(Kotlin,%20KWeb,%20Gradle)-darkviolet?style=for-the-badge&logo=kotlin&logoColor=violet)](https://github.com/demidko/web/generate)  
-  [![](https://img.shields.io/badge/android%20application%20(Kotlin,%20Jetpack,%20Gradle)-gray?style=for-the-badge&logo=android)](https://github.com/demidko/android/generate)  
+  [![](https://img.shields.io/badge/android%20application%20(Kotlin,%20Jetpack,%20Gradle)-3DDC84?style=for-the-badge&logo=android&logoColor=whitesmoke)](https://github.com/demidko/android/generate)  
   [![](https://img.shields.io/badge/desktop%20application%20(Kotlin,%20Jetpack,%20Gradle)-brown?style=for-the-badge&logo=kotlin)](https://github.com/demidko/desktop/generate)  
   [![](https://img.shields.io/badge/utility%20(C++,%20Conan,%20CMake)-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/cmake-utility/generate)  
   [![](https://img.shields.io/badge/library%20(C++,%20Conan,%20CMake)-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/native-library/generate)  
