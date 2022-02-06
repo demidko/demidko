@@ -43,4 +43,4 @@ _Heavy artillery. Use this template to create native C/C++ utilities. This proje
 
 _Note. At the moment, it makes no sense to start development with a mobile/desktop application. Microservices and crossplatform PWA won._
 
-<sub><sup>_S.D.G 2022_</sup></sub>
+<sub><sup>_S.D.G. 2022_</sup></sub>
