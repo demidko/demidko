@@ -5,7 +5,7 @@ Use this project wizard to quickly create applications.
 
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Ktor,%20Gradle)-blue?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/demidko/service/generate)  
 [![](https://img.shields.io/badge/utility%20(Kotlin,%20Gradle,%20GraalVM)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/utility/generate)  
-[![](https://img.shields.io/badge/library%20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)  
+[![](https://img.shields.io/badge/library%20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=maven)](https://github.com/demidko/library/generate)  
 [![](https://img.shields.io/badge/utility%20(C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/native-utility/generate)
 <details>
   <summary>More..</summary>
