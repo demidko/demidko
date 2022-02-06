@@ -7,6 +7,9 @@ Use this project wizard to quickly create applications.
 [![](https://img.shields.io/badge/utility%20(Kotlin,%20Gradle,%20GraalVM)-darkgreen?style=for-the-badge&logo=kotlin&logoColor=green)](https://github.com/demidko/utility/generate)  
 [![](https://img.shields.io/badge/library%20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)  
 [![](https://img.shields.io/badge/utility%20(C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/native-utility/generate)
+
+_Note. At the moment, it makes no sense to start development with a native application. Microservices and PWA won._
+
 <details>
   <summary>More..</summary>
   &nbsp
@@ -19,7 +22,5 @@ Use this project wizard to quickly create applications.
   [![](https://img.shields.io/badge/library%20(C++,%20Conan,%20CMake)-003E54?style=for-the-badge&logo=cmake)](https://github.com/demidko/native-library/generate)  
   [![](https://img.shields.io/badge/utility%20(C++,%20VCPKG,%20CMake)-gray?style=for-the-badge&logo=microsoft)](https://github.com/demidko/vcpkg-utility/generate) 
 </details>
-
-Note. At the moment, it makes no sense to start development with a native application. Microservices and PWA won.
 
 <sub><sup>_S.D.G 2021_</sup></sub>
