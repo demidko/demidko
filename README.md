@@ -6,7 +6,7 @@ Use this project wizard to quickly create your own GitHub repository. [**`Login`
 _Microservice template. You can easily turn it into a web application and also use Java if needed._  
 
 [![](https://img.shields.io/badge/utility%20(Kotlin,%20Gradle,%20GraalVM)-darkgreen?style=for-the-badge&logo=gradle)](https://github.com/demidko/utility/generate)  
-_Native command-line tool template. You can use Kotlin/Java and also easily include a GUI (Tornado, JavaFX, Swing)._  
+_Native command-line tool template. You can use Kotlin/Java and also include GUI (Tornado, JavaFX, Swing)._  
 
 [![](https://img.shields.io/badge/library%20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)  
 _This is a Kotlin/Java library template that is easy to publish to the JitPack repository._ 
