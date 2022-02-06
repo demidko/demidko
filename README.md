@@ -16,7 +16,7 @@ _Heavy artillery. Use this template to create native C/C++ utilities. This proje
 
 
 <details>
-<summary><i>More..<i></summary>
+<summary><b>More templates..</b></summary>
   &nbsp
 
   [![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
