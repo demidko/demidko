@@ -1,7 +1,6 @@
 # Project Wizard
 
-Use this project wizard to quickly create applications.  
-[**`Login`**](https://github.com/login) to use the following projects wizard buttons ⤵
+Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following projects wizard buttons ⤵
 
 [![](https://img.shields.io/badge/microservice%20(Kotlin,%20Ktor,%20Gradle)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate)  
 _Microservice template. You can easily turn it into a web application and also use Java if needed._  
