@@ -9,9 +9,8 @@ Use this project wizard to quickly create applications.
 [![](https://img.shields.io/badge/utility%20(C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/native-utility/generate)
 
 _Note. At the moment, it makes no sense to start development with a native application. Microservices and PWA won._
-
 <details>
-  <summary>More..</summary>
+  <summary><i>More..<i></summary>
   &nbsp
   
   [![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
