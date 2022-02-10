@@ -5,10 +5,10 @@ Use this project wizard to quickly create your own GitHub repository. [**`Login`
 [![](https://img.shields.io/badge/service%20(Kotlin,%20Gradle,%20Ktor)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate)  
 _Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. I recommend starting a new application projects with this template. The project has a Dockerfile configured to quickly deploy to any host._  
 
-[![](https://img.shields.io/badge/utility20(Kotlin,%20Gradle,%20GraalVM)-darkgreen?style=for-the-badge&logo=gradle)](https://github.com/demidko/utility/generate)  
+[![](https://img.shields.io/badge/utility%20(Kotlin,%20Gradle,%20GraalVM)-darkgreen?style=for-the-badge&logo=gradle)](https://github.com/demidko/utility/generate)  
 _Crossplatform native utility template. You can use Java/Kotlin and also include Desktop GUI (Tornado, JavaFX, Swing). You will receive binaries for macOS, Windows, Linux after each commit in the Actions tab._  
 
-[![](https://img.shields.io/badge/library20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)  
+[![](https://img.shields.io/badge/library%20(Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=java)](https://github.com/demidko/library/generate)  
 _Java/Kotlin library template. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system._ 
 
 [![](https://img.shields.io/badge/utility%20(C,%20C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/native-utility/generate)  
