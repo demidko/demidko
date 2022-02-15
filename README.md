@@ -2,7 +2,7 @@
 
 Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following templates ⤵
 
-[![](https://img.shields.io/badge/microservice%20(Java/Kotlin,%20Gradle,%20Ktor)-darkgreen?style=for-the-badge&logo=kotlin)](https://github.com/demidko/service/generate)  
+[![](https://img.shields.io/badge/microservice%20(Java/Kotlin,%20Gradle,%20Ktor)-darkgreen?style=for-the-badge&logo=kotlin&logoColor=whhite)](https://github.com/demidko/service/generate)  
 _Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. I recommend starting a new application projects with this template. The project has a Dockerfile configured to quickly deploy to any host._  
 
 [![](https://img.shields.io/badge/utility%20(Java/Kotlin,%20Gradle,%20GraalVM)-darkblue?style=for-the-badge&logo=gradle)](https://github.com/demidko/utility/generate)  
