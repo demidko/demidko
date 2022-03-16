@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 # Project Wizard
 
 Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following templates ⤵
