@@ -19,7 +19,7 @@ _Heavy artillery. Use this template to create native C/C++ utilities. This proje
 <summary><b>More templates..</b></summary>
   &nbsp
   
-  [![](https://img.shields.io/badge/application%20(Java/Kotlin,%20Gradle,%20Springboot)-green?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/demidko/application/generate)  
+  [![](https://img.shields.io/badge/application%20(Java/Kotlin,%20Gradle,%20Springboot)-darkgreen?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/demidko/application/generate)  
 _Java/Kotlin crossplatfrom web application template using Spring Boot._
 
   [![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
