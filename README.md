@@ -47,7 +47,7 @@ also [example](https://github.com/demidko/desktop)._
   _Deprecated. I recommend using xmake._ 
 </details>
 
-_Note. At the moment, it makes no sense to start development with a Mobile/Desktop application.  
+_Note. At the moment, it makes no sense to start development with a Mobile or Desktop application.  
  Microservices and Web Apps finally won._
 
 <sub><sup>_S.D.G. 2022_</sup></sub>
