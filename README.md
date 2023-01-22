@@ -2,7 +2,7 @@
 
 Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following templates ⤵
 
-[![](https://img.shields.io/badge/web%20application%20(Java/Kotlin,%20Gradle,%20spring%20boot)-darkgreen?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/demidko/application/generate)  
+[![](https://img.shields.io/badge/application%20(Java/Kotlin,%20Gradle,%20spring%20boot)-darkgreen?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/demidko/application/generate)  
 _Java/Kotlin crossplatfrom web application template using Spring Boot. The project has a Dockerfile configured to quickly deploy to any host._
 
 [![](https://img.shields.io/badge/library%20(Java/Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=gradle)](https://github.com/demidko/library/generate)  
