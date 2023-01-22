@@ -11,13 +11,13 @@ _Java/Kotlin library template. You can make a GitHub release to automatically pu
 [![](https://img.shields.io/badge/utility%20(C/C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/native-utility/generate)  
 _Heavy artillery. Use this template to create native C/C++ utilities. This project is easy to convert to a native library._
 
-[![](https://img.shields.io/badge/application%20(Kotlin,%20Gradle,%20Compose%20Multiplatform)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/JetBrains/compose-jb)  
-_Compose Multiplatform, UI framework for Kotlin that makes building beautiful Desktop and Android user interfaces. See
-also [example](https://github.com/demidko/desktop)._
-
 <details>
 <summary><b>More templates..</b></summary>
   &nbsp
+
+  [![](https://img.shields.io/badge/application%20(Kotlin,%20Gradle,%20Compose%20Multiplatform)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/JetBrains/compose-jb)  
+  _Compose Multiplatform, UI framework for Kotlin that makes building beautiful user interfaces. See
+  also [example for jvm](https://github.com/demidko/desktop)._
 
   [![](https://img.shields.io/badge/microservice%20(Java/Kotlin,%20Gradle,%20Ktor)-darkgreen?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/demidko/service/generate)  
   _Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. The project has a Dockerfile configured to quickly deploy to any host._
