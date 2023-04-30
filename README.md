@@ -8,7 +8,7 @@ _Java/Kotlin microservice template using Spring Boot. The project has a Dockerfi
 [![](https://img.shields.io/badge/library%20(Java/Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=gradle)](https://github.com/demidko/library/generate)  
 _Java/Kotlin library template. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system._
 
-[![](https://img.shields.io/badge/utility%20(C/C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/native-utility/generate)  
+[![](https://img.shields.io/badge/utility%20(C/C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
 _Heavy artillery. Use this template to create native C/C++ utilities. This project is easy to convert to a native library._
 
 <details>
