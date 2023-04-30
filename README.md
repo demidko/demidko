@@ -2,14 +2,17 @@
 
 Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following templates ⤵
 
-[![](https://img.shields.io/badge/microservice%20(Java/Kotlin,%20Gradle,%20spring%20boot)-darkgreen?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/demidko/microservice/generate)  
-_Java/Kotlin microservice template using Spring Boot. The project has a Dockerfile configured to quickly deploy to any host._
+[![](https://img.shields.io/badge/application%20(java/kotlin,%20js)-darkblue?style=for-the-badge&logo=pwa)](https://github.com/demidko/application/generate)  
+_Complete PWA template. Java/Kotlin backend using Gradle and Spring Boot. JS frontend using webpack and npm. The project has a Dockerfile configured to quickly deploy to any host._
 
-[![](https://img.shields.io/badge/library%20(Java/Kotlin,%20Gradle,%20Maven)-EA7100?style=for-the-badge&logo=gradle)](https://github.com/demidko/library/generate)  
-_Java/Kotlin library template. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system._
+[![](https://img.shields.io/badge/microservice%20(Java/Kotlin)-darkgreen?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/demidko/microservice/generate)  
+_Java/Kotlin microservice template using Gradle and Spring Boot. The project has a Dockerfile configured to quickly deploy to any host._
 
-[![](https://img.shields.io/badge/utility%20(C/C++,%20Xmake)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
-_Heavy artillery. Use this template to create native C/C++ utilities. This project is easy to convert to a native library._
+[![](https://img.shields.io/badge/library%20(Java/Kotlin)-EA7100?style=for-the-badge&logo=gradle)](https://github.com/demidko/library/generate)  
+_Java/Kotlin library template using Gradle. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system._
+
+[![](https://img.shields.io/badge/utility%20(C/C++)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
+_Heavy artillery. Use this template to create native C/C++ utilities with Xmake build system. This project is easy to convert to a native library._
 
 <details>
 <summary><b>More templates..</b></summary>
