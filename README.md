@@ -3,13 +3,13 @@
 Use this project wizard to quickly create your own GitHub repository. [**`Login`**](https://github.com/login) to use the following templates ⤵
 
 [![](https://img.shields.io/badge/application%20(java/kotlin,%20js)-darkblue?style=for-the-badge&logo=pwa)](https://github.com/demidko/application/generate)  
-_Complete PWA template. Java/Kotlin backend using Gradle and Spring Boot. JS frontend using webpack and npm. The project has a Dockerfile configured to quickly deploy to any host._
+_Use this template to create web applications. This is a template for a complete web application consisting of frontend (JS with webpack and npm) and backend (Java/Kotlin with Gradle and Spring Boot) components. The project has a Dockerfile configured to quickly deploy to any host._
 
 [![](https://img.shields.io/badge/microservice%20(Java/Kotlin)-darkgreen?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/demidko/microservice/generate)  
-_Java/Kotlin microservice template using Gradle and Spring Boot. The project has a Dockerfile configured to quickly deploy to any host._
+_Use this template to create Java/Kotlin microservices with Gradle and Spring Boot. The project has a Dockerfile configured to quickly deploy to any host._
 
 [![](https://img.shields.io/badge/library%20(Java/Kotlin)-EA7100?style=for-the-badge&logo=gradle)](https://github.com/demidko/library/generate)  
-_Java/Kotlin library template using Gradle. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system._
+_Use this template to create Java/Kotlin libraries. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system (like Gradle or Maven)._
 
 [![](https://img.shields.io/badge/utility%20(C/C++)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
 _Heavy artillery. Use this template to create native C/C++ utilities with Xmake build system. This project is easy to convert to a native library._
