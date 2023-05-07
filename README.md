@@ -12,7 +12,7 @@ _Use this template to create Java/Kotlin microservices with Gradle and Spring Bo
 _Use this template to create Java/Kotlin libraries. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system (like Gradle or Maven)._
 
 [![](https://img.shields.io/badge/utility%20(C/C++)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
-_Heavy artillery. Use this template to create native C/C++ utilities with Xmake build system. This project is easy to convert to a native library._
+_Heavy artillery. Use this template to create native C/C++ utilities with Xmake build system. You will receive binaries for macOS, Windows, Linux after each commit in the GitHub Actions tab. This project is easy to convert to a native library._
 
 <details>
 <summary><b>More templates..</b></summary>
