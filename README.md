@@ -28,7 +28,7 @@ _Heavy artillery. Use this template to create native C/C++ utilities with Xmake 
   [![](https://img.shields.io/badge/microservice%20(Java/Kotlin,%20Gradle,%20Ktor)-darkgreen?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/demidko/service/generate)  
   _Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. The project has a Dockerfile configured to quickly deploy to any host._
 
-  [![](https://img.shields.io/badge/utility%20(Java/Kotlin,%20Gradle,%20GraalVM)-darkblue?style=for-the-badge&logo=gradle)](https://github.com/demidko/utility/generate)  
+  [![](https://img.shields.io/badge/utility%20(Java/Kotlin,%20Gradle,%20GraalVM)-darkblue?style=for-the-badge&logo=gradle)](https://github.com/demidko/graalvm-utility/generate)  
   _Deprecated. Crossplatform native utility template. You can use Java/Kotlin and also include Desktop GUI (Tornado, JavaFX, Swing). You will receive binaries for macOS, Windows, Linux after each commit in the Actions tab._
   
   [![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
