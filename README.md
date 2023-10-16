@@ -19,23 +19,20 @@ _Heavy artillery. Use this template to create native C/C++ utilities with Xmake 
   &nbsp
 
   [![](https://img.shields.io/badge/graal%20utility%20(Java/Kotlin)-black?style=for-the-badge&logo=kotlin)](https://github.com/demidko/graal-utility/generate)  
-  _Heavy artillery. Use this template to create native Java/Kotlin utilities with Gradle build system. You will receive binaries for macOS, Linux and Windows after each commit in the GitHub Actions tab._
+  _Heavy artillery. Use this template to create native Java/Kotlin applications with Gradle build system. You will receive binaries for macOS, Linux and Windows after each commit in the GitHub Actions tab._
 
   [![](https://img.shields.io/badge/application%20(Kotlin,%20Gradle,%20Compose%20Multiplatform)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/JetBrains/compose-jb)  
   _Compose Multiplatform, UI framework for Kotlin that makes building beautiful user interfaces. See
   also [example for jvm](https://github.com/demidko/desktop)._
 
   [![](https://img.shields.io/badge/microservice%20(Java/Kotlin,%20Gradle,%20Ktor)-darkgreen?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/demidko/service/generate)  
-  _Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. The project has a Dockerfile configured to quickly deploy to any host._
-
-  [![](https://img.shields.io/badge/utility%20(Java 17/Kotlin,%20Gradle,%20GraalVM)-darkblue?style=for-the-badge&logo=gradle)](https://github.com/demidko/graalvm-utility/generate)  
-  _Deprecated. Crossplatform native utility template. You can use Java/Kotlin and also include Desktop GUI (Tornado, JavaFX, Swing). You will receive binaries for macOS, Windows, Linux after each commit in the Actions tab._
+  _Deprecated. Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. The project has a Dockerfile configured to quickly deploy to any host._
   
   [![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
-  _A Telegram bot can easily replace a simple web application._
+  _Deprecated. A Telegram bot can easily replace a simple web application._
   
   [![](https://img.shields.io/badge/web%20application%20(Kotlin,%20KWeb,%20Gradle)-darkviolet?style=for-the-badge&logo=kotlin&logoColor=violet)](https://github.com/demidko/web/generate)  
-  _A complete web application using Kotlin for both the backend and frontend._
+  _Deprecated. A complete web application using Kotlin for both the backend and frontend._
   
   [![](https://img.shields.io/badge/android%20application%20(Kotlin,%20Jetpack,%20Gradle)-3DDC84?style=for-the-badge&logo=android&logoColor=whitesmoke)](https://github.com/demidko/android/generate)  
   _Deprecated. The Android ecosystem has become very complex lately and I recommend choosing a default PWA for development._
