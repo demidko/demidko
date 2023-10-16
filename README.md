@@ -18,17 +18,17 @@ _Heavy artillery. Use this template to create native C/C++ utilities with Xmake 
 <summary><b>More templates..</b></summary>
   &nbsp
 
+  [![](https://img.shields.io/badge/graal%20utility%20(Java/Kotlin)-black?style=for-the-badge&logo=kotlin)](https://github.com/demidko/graal-utility/generate)  
+  _Heavy artillery. Use this template to create native Java/Kotlin utilities with Gradle build system. You will receive binaries for macOS, Linux and Windows after each commit in the GitHub Actions tab._
+
   [![](https://img.shields.io/badge/application%20(Kotlin,%20Gradle,%20Compose%20Multiplatform)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/JetBrains/compose-jb)  
   _Compose Multiplatform, UI framework for Kotlin that makes building beautiful user interfaces. See
   also [example for jvm](https://github.com/demidko/desktop)._
 
-  [![](https://img.shields.io/badge/graal%20utility%20(Java/Kotlin)-black?style=for-the-badge&logo=kotlin)](https://github.com/demidko/graal-utility/generate)  
-  _Heavy artillery. Use this template to create native Java/Kotlin utilities with Gradle build system. You will receive binaries for macOS & Linux after each commit in the GitHub Actions tab._
-
   [![](https://img.shields.io/badge/microservice%20(Java/Kotlin,%20Gradle,%20Ktor)-darkgreen?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/demidko/service/generate)  
   _Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with JS/HTML. The project has a Dockerfile configured to quickly deploy to any host._
 
-  [![](https://img.shields.io/badge/utility%20(Java/Kotlin,%20Gradle,%20GraalVM)-darkblue?style=for-the-badge&logo=gradle)](https://github.com/demidko/graalvm-utility/generate)  
+  [![](https://img.shields.io/badge/utility%20(Java 17/Kotlin,%20Gradle,%20GraalVM)-darkblue?style=for-the-badge&logo=gradle)](https://github.com/demidko/graalvm-utility/generate)  
   _Deprecated. Crossplatform native utility template. You can use Java/Kotlin and also include Desktop GUI (Tornado, JavaFX, Swing). You will receive binaries for macOS, Windows, Linux after each commit in the Actions tab._
   
   [![](https://img.shields.io/badge/telegram%20Bot%20(Kotlin,%20Gradle)-blue?style=for-the-badge&logo=telegram)](https://github.com/demidko/telegram/generate)  
