@@ -11,14 +11,14 @@ _Use this template to create Java/Kotlin microservices with Gradle and Spring Bo
 [![](https://img.shields.io/badge/library%20(Java/Kotlin)-EA7100?style=for-the-badge&logo=gradle)](https://github.com/demidko/library/generate)  
 _Use this template to create Java/Kotlin libraries. You can make a GitHub release to automatically publish your library to a JitPack repository. You can include the resulting library from any build system (like Gradle or Maven)._
 
-[![](https://img.shields.io/badge/utility%20(C/C++)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
-_Heavy artillery. Use this template to create native C/C++ utilities with Xmake build system. You will receive binaries for macOS, Windows, Linux after each commit in the GitHub Actions tab. This project is easy to convert to a native library._
-
 <details>
 <summary><b>More templates..</b></summary>
   &nbsp
 
   ## Experimental templates
+
+  [![](https://img.shields.io/badge/utility%20(C/C++)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
+  _Heavy artillery. Use this template to create native C/C++ utilities with Xmake build system. You will receive binaries for macOS, Windows, Linux after each commit in the GitHub Actions tab. This project is easy to convert to a native library._
 
   [![](https://img.shields.io/badge/graal%20utility%20(Java/Kotlin)-black?style=for-the-badge&logo=kotlin)](https://github.com/demidko/graal-utility/generate)  
   _Heavy artillery. Use this template to create native Java/Kotlin applications with Gradle build system. You will receive binaries for macOS, Linux and Windows after each commit in the GitHub Actions tab._
