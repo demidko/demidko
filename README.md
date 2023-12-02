@@ -20,22 +20,22 @@ to a JitPack repository. You can include the resulting library from any build sy
 <summary><b>More templates..</b></summary>
   &nbsp
 
-## Experimental templates
-
 [![](https://img.shields.io/badge/utility%20(C/C++)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
 _Heavy artillery. Consider using Rust instead of this template. Use this template to create native C/C++ utilities with
 Xmake build system. You will receive binaries for macOS, Windows, Linux after each commit in the GitHub Actions tab.
 This project is easy to convert to a native library._
 
 [![](https://img.shields.io/badge/graal%20utility%20(Java/Kotlin)-black?style=for-the-badge&logo=kotlin)](https://github.com/demidko/graal-utility/generate)  
-_Heavy artillery. Use this template to create native Java/Kotlin applications with Gradle build system. You will receive
+_Experimental. Heavy artillery. Use this template to create native Java/Kotlin applications with Gradle build system. You will receive
 binaries for macOS, Linux and Windows after each commit in the GitHub Actions tab._
 
 [![](https://img.shields.io/badge/application%20(Kotlin,%20Gradle,%20Compose%20Multiplatform)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/JetBrains/compose-jb)  
 _Compose Multiplatform, UI framework for Kotlin that makes building beautiful user interfaces. See
 also [example for jvm](https://github.com/demidko/desktop)._
 
-## Deprecated templates
+<details>
+<summary><b>Deprecated templates..</b></summary>
+  &nbsp
 
 [![](https://img.shields.io/badge/microservice%20(Java/Kotlin,%20Gradle,%20Ktor)-darkgreen?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/demidko/service/generate)  
 _Deprecated. Java/Kotlin microservice template. You can easily turn it into a crossplatfrom web application with
@@ -62,6 +62,7 @@ _Deprecated. I recommend using xmake._
 
 [![](https://img.shields.io/badge/utility%20(C++,%20VCPKG,%20CMake)-gray?style=for-the-badge&logo=microsoft)](https://github.com/demidko/vcpkg-utility/generate)  
 _Deprecated. I recommend using xmake._
+</details>
 </details>
 
 _Note. At the moment, it makes no sense to start development with a Mobile or Desktop application.  
