@@ -68,4 +68,4 @@ _Deprecated. I recommend using xmake._
 _Note. At the moment, it makes no sense to start development with a Mobile or Desktop application.  
 Microservices and Web Apps finally won._
 
-<sub><sup>_S.D.G. 2022_</sup></sub>
+<sub><sup>_S.D.G. 2024_</sup></sub>
