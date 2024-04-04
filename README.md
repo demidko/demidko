@@ -12,7 +12,7 @@ host._
 _Use this template to create Java/Kotlin microservices with Gradle and Spring Boot. The project has a Dockerfile
 configured to quickly deploy to any host._
 
-[![](https://img.shields.io/badge/library%20(Java/Kotlin)-EA7100?style=for-the-badge&logo=gradle)](https://github.com/demidko/library/generate)  
+[![](https://img.shields.io/badge/library%20(Java/Kotlin)-EA7100?style=for-the-badge&logo=openjdk)](https://github.com/demidko/library/generate)  
 _Use this template to create Java/Kotlin libraries. You can make a GitHub release to automatically publish your library
 to a JitPack repository. You can include the resulting library from any build system (like Gradle or Maven)._
 
