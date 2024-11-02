@@ -15,11 +15,6 @@ to a JitPack repository. You can include the resulting library from any build sy
 <summary><b>More templates..</b></summary>
   &nbsp
 
-[![](https://img.shields.io/badge/application%20(java/kotlin,%20js)-darkblue?style=for-the-badge&logo=pwa)](https://github.com/demidko/application/generate)  
-_This is a template for a complete web application consisting of frontend (JS with webpack and npm) and backend
-(Java/Kotlin with Gradle and Spring Boot) components. The project has a Dockerfile configured to quickly deploy to any
-host._
-
 [![](https://img.shields.io/badge/utility%20(C/C++)-black?style=for-the-badge&logo=cplusplus)](https://github.com/demidko/utility/generate)  
 _Heavy artillery. Consider using Rust instead of this template. Use this template to create native C/C++ utilities with
 Xmake build system. You will receive binaries for macOS, Windows, Linux after each commit in the GitHub Actions tab.
@@ -29,7 +24,12 @@ This project is easy to convert to a native library._
 _Experimental. Heavy artillery. Use this template to create native Java/Kotlin applications with Gradle build system. You will receive
 binaries for macOS, Linux and Windows after each commit in the GitHub Actions tab._
 
-[![](https://img.shields.io/badge/application%20(Kotlin,%20Gradle,%20Compose%20Multiplatform)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/JetBrains/compose-jb)  
+[![](https://img.shields.io/badge/application%20(java/kotlin,%20js)-darkblue?style=for-the-badge&logo=pwa)](https://github.com/demidko/application/generate)  
+_This is a template for a complete web application consisting of frontend (JS with webpack and npm) and backend
+(Java/Kotlin with Gradle and Spring Boot) components. The project has a Dockerfile configured to quickly deploy to any
+host._
+
+[![](https://img.shields.io/badge/desktop%20application%20(Kotlin,%20Gradle,%20Compose%20Multiplatform)-darkblue?style=for-the-badge&logo=kotlin)](https://github.com/JetBrains/compose-jb)  
 _Compose Multiplatform, UI framework for Kotlin that makes building beautiful user interfaces. See
 also [example for jvm](https://github.com/demidko/desktop)._
 
