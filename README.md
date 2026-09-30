@@ -64,7 +64,6 @@ _Deprecated. I recommend using xmake._
 </details>
 </details>
 
-_Note. At the moment, it makes no sense to start development with a Mobile or Desktop application.  
-Microservices and Web Apps finally won._
+_*Note. At this point, it no longer makes sense to start development with a Project Wizard. Coding agents have finally won. This project now stands as a monument to a bygone era of manual programming.*_
 
-<sub><sup>_S.D.G. 2025_</sup></sub>
+<sub><sup>_S.D.G. 2026_</sup></sub>
